@@ -14,4 +14,14 @@
 {4,"_$InfoBase$_.DBConfigUpdate",6},
 {3,"1CV8",3},
 {4,"_$PerformError$_",7},
-{3,"BackgroundJob",4}
+{3,"BackgroundJob",4},
+{4,"_$InfoBase$_.PredefinedDataUpdate",8},
+{5,926366b9-1cb3-47c2-8ed9-0c4c9c81f443,"",1},
+{5,2c0f00b7-0976-48a0-a7b9-d10a61e7d3c7,"",2},
+{5,4c653142-7d1a-4935-8798-f752ec4775b0,"",3},
+{4,"_$Transaction$_.Begin",9},
+{4,"_$Data$_.New",10},
+{5,926366b9-1cb3-47c2-8ed9-0c4c9c81f443,"Справочник.Сотрудники",1},
+{4,"_$Transaction$_.Commit",11},
+{5,4c653142-7d1a-4935-8798-f752ec4775b0,"Справочник.Подразделения",3},
+{4,"_$Data$_.Update",12}
