@@ -13,4 +13,5 @@
 {4,"_$InfoBase$_.DBConfigUpdateStart",5},
 {4,"_$InfoBase$_.DBConfigUpdate",6},
 {3,"1CV8",3},
-{4,"_$PerformError$_",7}
+{4,"_$PerformError$_",7},
+{3,"BackgroundJob",4}
